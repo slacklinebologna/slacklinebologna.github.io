@@ -10,11 +10,10 @@ format: frontpage
 </div><!-- /#header-home -->
 
 
-{% if page.description != NULL %}
+{% if content %}
 <div class="row t60">
     <div class="column">
-      <h1>{{ page.description.header }}</h1>
-      {{ page.description.body }}
+      {{ content }}
     </div>
 </div><!-- /.row -->
 {% endif %}

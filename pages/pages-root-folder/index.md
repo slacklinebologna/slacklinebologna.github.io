@@ -8,9 +8,6 @@ layout: frontpage
 header:
   title: "Slackline Bologna ASD"
   image_fullwidth: bismantova.jpg
-description:
-  header: "Content header"
-  body: "This is the body"
 widget1:
   title: "Blog"
   url: '/blog'
@@ -33,3 +30,5 @@ permalink: /index.html
 #
 homepage: true
 ---
+<h1>Some title</h1>
+Some content

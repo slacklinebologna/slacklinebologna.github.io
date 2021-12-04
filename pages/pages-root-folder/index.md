@@ -5,9 +5,6 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-header:
-  title: "Slackline Bologna ASD"
-  image_fullwidth: bismantova.jpg
 widget1:
   title: "Blog"
   url: '/blog'

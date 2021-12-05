@@ -1,5 +1,8 @@
 backend:
-  name: git-gateway
+  name: github
+  repo: slacklinebolognaasd/slacklinebolognaasd.github.io
+  branch: master
+  site_domain: fervent-carson-8473a7.netlify.app
 media_folder: 'images'
 collections:
   # - name: '_pages_'

@@ -6,6 +6,7 @@
   font-family: "iconfont";
   src: url("./iconfont.eot");
   src: url("./iconfont.eot?#iefix") format("embedded-opentype"),
+       url("./iconfont.woff2") format("woff2"),
        url("./iconfont.woff") format("woff"),
        url("./iconfont.ttf") format("truetype"),
        url("./iconfont.svg#iconfont") format("svg");
@@ -47,7 +48,6 @@
 .icon-feather:before,
 .icon-github:before,
 .icon-globe:before,
-.icon-googleplus:before,
 .icon-heart:before,
 .icon-heart-outlined:before,
 .icon-home:before,
@@ -64,6 +64,7 @@
 .icon-price-tag:before,
 .icon-rocket:before,
 .icon-rss:before,
+.icon-slackline-bologna-albero:before,
 .icon-soundcloud:before,
 .icon-star:before,
 .icon-star-outlined:before,
@@ -116,7 +117,6 @@
 .icon-feather:before { content: "\f114"; }
 .icon-github:before { content: "\f115"; }
 .icon-globe:before { content: "\f116"; }
-.icon-googleplus:before { content: "\f136"; }
 .icon-heart:before { content: "\f117"; }
 .icon-heart-outlined:before { content: "\f118"; }
 .icon-home:before { content: "\f119"; }
@@ -133,6 +133,7 @@
 .icon-price-tag:before { content: "\f124"; }
 .icon-rocket:before { content: "\f125"; }
 .icon-rss:before { content: "\f126"; }
+.icon-slackline-bologna-albero:before { content: "\f137"; }
 .icon-soundcloud:before { content: "\f127"; }
 .icon-star:before { content: "\f128"; }
 .icon-star-outlined:before { content: "\f129"; }

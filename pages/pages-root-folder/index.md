@@ -10,7 +10,7 @@ widget1:
   title: Blog
   url: /blog
   image: /images/colodri-thumb.jpg
-  text: Bla bla bla see our latest projects
+  text: Bla bla bla see our latest projects!
 widget2:
   title: Spettacoli & Eventi
   url: /spettacoli-eventi

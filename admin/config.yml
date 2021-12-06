@@ -5,23 +5,110 @@ backend:
   site_domain: fervent-carson-8473a7.netlify.app
 media_folder: 'images'
 collections:
-  # - name: '_pages_'
-  #   label: 'Pages'
-  #   files:
-  #     - label: 'Home page'
-  #       name: 'home'
-  #       file: '_data/site.yml'
-  #       fields:
-  #         - { label: "Website name", name: "name", widget: "string" }
-  #         - { label: "Description", name: "description", widget: "string" }
-  #     - label: 'About page'
-  #       name: 'about'
-  #       file: '_pages/about.md'
-  #       fields:
-  #         - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
-  #         - { label: "Permalink", name: "permalink", widget: "hidden", default: "/about" }
-  #         - { label: "Title", name: "title", widget: "string" }
-  #         - { label: "Body", name: "body", widget: "markdown" }
+  - name: '_pages_'
+    label: 'Pages'
+    files:
+      - label: 'Home page'
+        name: 'home'
+        file: 'pages/pages-root-folder/index.md'
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "frontpage" }
+          - { label: "Homepage", name: "homepage", widget: "hidden", default: true }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/index.html" }
+          - {
+              label: "First Box",
+              name: "widget1",
+              widget: "object",
+              fields: [
+                { label: "Url", name: "url", widget: "hidden", default: "/lezioni" },
+                { label: "Title", name: "title", widget: "string" },
+                { label: "Text", name: "text", widget: "string" },
+                { label: "Image", name: "image", widget: "image" }
+              ]
+            }
+          - {
+              label: "Second Box",
+              name: "widget2",
+              widget: "object",
+              fields: [
+                { label: "Url", name: "url", widget: "hidden", default: "/lezioni" },
+                { label: "Title", name: "title", widget: "string" },
+                { label: "Text", name: "text", widget: "string" },
+                { label: "Image", name: "image", widget: "image" }
+              ]
+            }
+          - {
+              label: "Third Box",
+              name: "widget3",
+              widget: "object",
+              fields: [
+                { label: "Url", name: "url", widget: "hidden", default: "/lezioni" },
+                { label: "Title", name: "title", widget: "string" },
+                { label: "Text", name: "text", widget: "string" },
+                { label: "Image", name: "image", widget: "image" }
+              ]
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: 'Spettacoli/eventi'
+        name: 'spettacoli-eventi'
+        file: 'pages/spettacoli-eventi.md'
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/spettacoli-eventi/" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Search engine title", name: "meta_title", widget: "string" }
+          - {
+              label: "Image",
+              name: "image",
+              widget: "object",
+              required: false,
+              fields: [
+                { label: "Image", name: "title", widget: "image", required: false },
+                { label: "Caption", name: "caption", widget: "string", required: false },
+                { label: "Caption url", name: "caption_url", widget: "string", required: false }
+              ]
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: 'Lezioni'
+        name: 'lezioni'
+        file: 'pages/lezioni.md'
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/lezioni/" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Search engine title", name: "meta_title", widget: "string" }
+          - {
+              label: "Image",
+              name: "image",
+              widget: "object",
+              required: false,
+              fields: [
+                { label: "Image", name: "title", widget: "image", required: false },
+                { label: "Caption", name: "caption", widget: "string", required: false },
+                { label: "Caption url", name: "caption_url", widget: "string", required: false }
+              ]
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
+      - label: 'Contattaci'
+        name: 'contattaci'
+        file: 'pages/contattaci.md'
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/contattaci/" }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Search engine title", name: "meta_title", widget: "string" }
+          - {
+              label: "Image",
+              name: "image",
+              widget: "object",
+              required: false,
+              fields: [
+                { label: "Image", name: "title", widget: "image", required: false },
+                { label: "Caption", name: "caption", widget: "string", required: false },
+                { label: "Caption url", name: "caption_url", widget: "string", required: false }
+              ]
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
   - name: 'blog'
     label: 'Blog'
     folder: '_posts/'
@@ -37,10 +124,11 @@ collections:
           label: "Image",
           name: "image",
           widget: "object",
+          required: false,
           fields: [
-            { label: "Image", name: "title", widget: "image" },
-            { label: "Caption", name: "caption", widget: "string" },
-            { label: "Caption url", name: "caption_url", widget: "string" }
+            { label: "Image", name: "title", widget: "image", required: false },
+            { label: "Caption", name: "caption", widget: "string", required: false },
+            { label: "Caption url", name: "caption_url", widget: "string", required: false }
           ]
         }
       - { label: "Body", name: "body", widget: "markdown" }

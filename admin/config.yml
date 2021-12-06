@@ -91,7 +91,7 @@ collections:
               ]
             }
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Search engine title", name: "meta_title", widget: "string" }
+          - { label: "Tab title", name: "meta_title", widget: "string" }
           - {
               label: "Image",
               name: "image",
@@ -120,7 +120,7 @@ collections:
               ]
             }
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Search engine title", name: "meta_title", widget: "string" }
+          - { label: "Tab title", name: "meta_title", widget: "string" }
           - {
               label: "Image",
               name: "image",
@@ -149,7 +149,7 @@ collections:
               ]
             }
           - { label: "Title", name: "title", widget: "string" }
-          - { label: "Search engine title", name: "meta_title", widget: "string" }
+          - { label: "Tab title", name: "meta_title", widget: "string" }
           - {
               label: "Image",
               name: "image",

@@ -5,19 +5,19 @@ permalink: /index.html
 widget1:
   title: Blog
   url: /blog
-  image: widget-1-302x182.jpg
+  image: /images/colodri-thumb.jpg
   text: Bla bla bla see our latest projects
 widget2:
   title: Spettacoli & Eventi
   url: /spettacoli-eventi
   text: Something about events...
-  image: widget-1-302x182.jpg
+  image: /images/smiaf-thumb.jpg
 widget3:
   title: Lezioni
   url: /lezioni
-  image: widget-github-303x182.jpg
+  image: /images/gimi2017-thumb.jpg
   text: Something about lezioni
 ---
-# Some title
+# Slackline Bologna
 
-Some info about slack bolo...
+Who we are what we do etc...

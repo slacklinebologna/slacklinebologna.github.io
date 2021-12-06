@@ -1,6 +1,8 @@
 ---
 layout: page
 permalink: /contattaci/
+header:
+  image_fullwidth: /images/colodri.jpg
 title: Contattaci
 meta_title: ... description for search engine
 ---

@@ -15,6 +15,16 @@ collections:
           - { label: "Layout", name: "layout", widget: "hidden", default: "frontpage" }
           - { label: "Homepage", name: "homepage", widget: "hidden", default: true }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/index.html" }
+          - { label: "Tab title", name: "title", widget: "string" }
+          - {
+              label: "Header",
+              name: "header",
+              widget: "object",
+              fields: [
+                { label: "Title", name: "title", widget: "string" },
+                { label: "Image", name: "image_fullwidth", widget: "image" }
+              ]
+            }
           - {
               label: "First Box",
               name: "widget1",
@@ -49,12 +59,37 @@ collections:
               ]
             }
           - { label: "Body", name: "body", widget: "markdown" }
+      - label: 'Blog'
+        name: 'blog'
+        file: '_layouts/default-with-blog-header.html'
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "default" }
+          - { label: "Tab title", name: "title", widget: "string" }
+          - {
+              label: "Header",
+              name: "header",
+              widget: "object",
+              fields: [
+                { label: "Title", name: "title", widget: "string" },
+                { label: "Image", name: "image_fullwidth", widget: "image" }
+              ]
+            }
+          - { label: "Body", name: "body", widget: "hidden", default: "{{content}}" }
       - label: 'Spettacoli/eventi'
         name: 'spettacoli-eventi'
         file: 'pages/spettacoli-eventi.md'
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/spettacoli-eventi/" }
+          - {
+              label: "Header",
+              name: "header",
+              widget: "object",
+              fields: [
+                { label: "Title", name: "title", widget: "string" },
+                { label: "Image", name: "image_fullwidth", widget: "image" }
+              ]
+            }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Search engine title", name: "meta_title", widget: "string" }
           - {
@@ -75,6 +110,15 @@ collections:
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/lezioni/" }
+          - {
+              label: "Header",
+              name: "header",
+              widget: "object",
+              fields: [
+                { label: "Title", name: "title", widget: "string" },
+                { label: "Image", name: "image_fullwidth", widget: "image" }
+              ]
+            }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Search engine title", name: "meta_title", widget: "string" }
           - {
@@ -95,6 +139,15 @@ collections:
         fields:
           - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
           - { label: "Permalink", name: "permalink", widget: "hidden", default: "/contattaci/" }
+          - {
+              label: "Header",
+              name: "header",
+              widget: "object",
+              fields: [
+                { label: "Title", name: "title", widget: "string" },
+                { label: "Image", name: "image_fullwidth", widget: "image" }
+              ]
+            }
           - { label: "Title", name: "title", widget: "string" }
           - { label: "Search engine title", name: "meta_title", widget: "string" }
           - {
@@ -110,7 +163,7 @@ collections:
             }
           - { label: "Body", name: "body", widget: "markdown" }
   - name: 'blog'
-    label: 'Blog'
+    label: 'Blog posts'
     folder: '_posts/'
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"

@@ -70,7 +70,7 @@ collections:
               name: "header",
               widget: "object",
               fields: [
-                { label: "Title", name: "title", widget: "string" },
+                { label: "Title", name: "title", widget: "string", required: false },
                 { label: "Image", name: "image_fullwidth", widget: "image" }
               ]
             }
@@ -86,7 +86,7 @@ collections:
               name: "header",
               widget: "object",
               fields: [
-                { label: "Title", name: "title", widget: "string" },
+                { label: "Title", name: "title", widget: "string", required: false },
                 { label: "Image", name: "image_fullwidth", widget: "image" }
               ]
             }
@@ -115,7 +115,7 @@ collections:
               name: "header",
               widget: "object",
               fields: [
-                { label: "Title", name: "title", widget: "string" },
+                { label: "Title", name: "title", widget: "string", required: false },
                 { label: "Image", name: "image_fullwidth", widget: "image" }
               ]
             }
@@ -144,7 +144,7 @@ collections:
               name: "header",
               widget: "object",
               fields: [
-                { label: "Title", name: "title", widget: "string" },
+                { label: "Title", name: "title", widget: "string", required: false },
                 { label: "Image", name: "image_fullwidth", widget: "image" }
               ]
             }

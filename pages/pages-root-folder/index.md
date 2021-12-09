@@ -2,9 +2,9 @@
 layout: frontpage
 homepage: true
 permalink: /index.html
-title: Slackline Bologna
+title: Slackline Bologna ASD
 header:
-  title: Slackline Bologna ASD
+  title: Slackline Bologna
   image_fullwidth: /images/bismantova.jpg
 widget1:
   title: Blog

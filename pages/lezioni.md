@@ -10,27 +10,15 @@ meta_title: La slackline è per tutti! Per chi è carico di immergersi nel nostr
 image:
   title: /images/gimi2017-thumb.jpg
 ---
-
-
 **Dove** 
 
 Nei mesi più freddi terremo dei corsi indoor presso l'Eden Park di Bologna (Via Camillo Casarini 19). Successivamente, non appena la temperatura lo permetterà, ci sposteremo nei parchi della città (Giardini Margherita, Villa Angeletti, ecc.)
-
-
-
-
-
-
 
 **A chi si rivolge**
 
 Il corso è dedicato ad adulti e ragazzi di tutte le età. Non è necessario avere una preparazione fisica particolare, tutto si può imparare, con pazienza e forza di volontà.
 
 I corsi inizialmente non saranno strutturati per livello per permettere a tutti di provare. Successivamente creeremo gruppi più specifici in base all'età e all'esperienza dei partecipanti.
-
-
-
-
 
 \
 **Descrizione del corso** 
@@ -50,8 +38,6 @@ Momentaneamente il numero massimo di iscritti per classe è di *6 allievi (*a ca
 
 Il lavoro viene sviluppato in maniera progressiva dall’inizio alla fine del corso. È comunque sempre possibile inserirsi, previo accordo con l’insegnante.
 
-
-
 LA PRIMA LEZIONE E' GRATUITA (Sarà comunque necessario il tesseramento AICS annuale all' associazione)
 
 \
@@ -61,21 +47,3 @@ LA PRIMA LEZIONE E' GRATUITA (Sarà comunque necessario il tesseramento AICS ann
 MARTEDI dalle alle 18:00 alle 19:30
 
 GIOVEDI dalle 18:00 alle 19:30
-
-
-
-
-
-
-
-**Contatti**
-
-Per informazioni e prezzi:
-
-CARLO MARIA SOVRINI 3205649950-carlomaria.sovrini@gmail.com
-
-MICHELE PETTINI 
-
-
-
-Se non ci trovate lasciateci un messaggio e verrete ricontattati il prima possibile!

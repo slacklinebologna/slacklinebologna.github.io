@@ -10,11 +10,11 @@ meta_title: La slackline è per tutti! Per chi è carico di immergersi nel nostr
 image:
   title: /images/gimi2017-thumb.jpg
 ---
-* ### Dove
+* ![]()
+
+  ### Dove
 
 ### Nei mesi più freddi terremo dei corsi indoor presso l'Eden Park di Bologna (Via Camillo Casarini 19). Successivamente, non appena la temperatura lo permetterà, ci sposteremo nei parchi della città (Giardini Margherita, Villa Angeletti, ecc.)
-
-
 
 * ### A chi si rivolge
 

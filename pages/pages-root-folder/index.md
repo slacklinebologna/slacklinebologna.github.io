@@ -5,7 +5,7 @@ permalink: /index.html
 title: Slackline Bologna ASD
 header:
   title: Slackline Bologna
-  image_fullwidth: /images/dsc00506.jpg
+  image_fullwidth: /images/simo5307.jpg
 widget1:
   title: Blog
   url: /blog

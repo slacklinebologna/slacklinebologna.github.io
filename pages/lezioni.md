@@ -10,40 +10,38 @@ meta_title: La slackline è per tutti! Per chi è carico di immergersi nel nostr
 image:
   title: /images/gimi2017-thumb.jpg
 ---
-**Dove** 
+* ### Dove
 
-Nei mesi più freddi terremo dei corsi indoor presso l'Eden Park di Bologna (Via Camillo Casarini 19). Successivamente, non appena la temperatura lo permetterà, ci sposteremo nei parchi della città (Giardini Margherita, Villa Angeletti, ecc.)
+### Nei mesi più freddi terremo dei corsi indoor presso l'Eden Park di Bologna (Via Camillo Casarini 19). Successivamente, non appena la temperatura lo permetterà, ci sposteremo nei parchi della città (Giardini Margherita, Villa Angeletti, ecc.)
 
-**A chi si rivolge**
 
-Il corso è dedicato ad adulti e ragazzi di tutte le età. Non è necessario avere una preparazione fisica particolare, tutto si può imparare, con pazienza e forza di volontà.
 
-I corsi inizialmente non saranno strutturati per livello per permettere a tutti di provare. Successivamente creeremo gruppi più specifici in base all'età e all'esperienza dei partecipanti.
+* ### A chi si rivolge
 
-\
-**Descrizione del corso** 
+### Il corso è dedicato ad adulti e ragazzi di tutte le età. Non è necessario avere una preparazione fisica particolare, tutto si può imparare, con pazienza e forza di volontà.
 
-Lo svolgimento di una lezione di *un' ora e mezza* comprende: 
+### I corsi inizialmente non saranno strutturati per livello per permettere a tutti di provare. Successivamente creeremo gruppi più specifici in base all'età e all'esperienza dei partecipanti.
 
-*\-un riscaldamento generico iniziale con esercizi propedeutici a terra e in movimento per affrontare poi la pratica in maniera sicura*
+* ### Descrizione del corso 
 
-*\-lo sviluppo delle varie tecniche di equilibrio in piedi e seduto in base alla capacità* 
+### Lo svolgimento di una lezione di un' ora e mezza comprende: 
 
-*\-rilassamento muscolare e flessibilità finali*
+### \-un riscaldamento generico iniziale con esercizi propedeutici a terra e in movimento per affrontare poi la pratica in maniera sicura
 
-\
-In principio monteremo due slackline corte di facile e media difficoltà per poi aumentare il livello e la lunghezza con l’avanzare del corso. Ciascuna di esse avrà materassi di protezione (esclusivamente in palestra) per poter imparare in completa sicurezza.
+### \-lo sviluppo delle varie tecniche di equilibrio in piedi e seduto in base alla capacità 
 
-Momentaneamente il numero massimo di iscritti per classe è di *6 allievi (*a causa del numero limitato di linee che possiamo montare in palestra).
+### \-rilassamento muscolare e flessibilità finali
 
-Il lavoro viene sviluppato in maniera progressiva dall’inizio alla fine del corso. È comunque sempre possibile inserirsi, previo accordo con l’insegnante.
+### In principio monteremo due slackline corte di facile e media difficoltà per poi aumentare il livello e la lunghezza con l’avanzare del corso. Ciascuna di esse avrà materassi di protezione (esclusivamente in palestra) per poter imparare in completa sicurezza.
 
-LA PRIMA LEZIONE E' GRATUITA (Sarà comunque necessario il tesseramento AICS annuale all' associazione)
+### Momentaneamente il numero massimo di iscritti per classe è di 6 allievi (a causa del numero limitato di linee che possiamo montare in palestra).
 
-\
-**Giorni e orari**
+### Il lavoro viene sviluppato in maniera progressiva dall’inizio alla fine del corso. È comunque sempre possibile inserirsi, previo accordo con l’insegnante.
 
-\
-MARTEDI dalle alle 18:00 alle 19:30
+### LA PRIMA LEZIONE E' GRATUITA (Sarà comunque necessario il tesseramento AICS annuale all' associazione)
 
-GIOVEDI dalle 18:00 alle 19:30
+* ### Giorni e orari
+
+### MARTEDI dalle alle 18:00 alle 19:30
+
+### GIOVEDI dalle 18:00 alle 19:30

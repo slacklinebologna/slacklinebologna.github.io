@@ -38,4 +38,4 @@ La nostra disciplina richiede anni di passione, allenamento costante e molte bas
 
 In equilibrio, passo dopo passo... su una fettuccia che unisce montagne, alberi, edifici ma soprattutto persone di ogni età e parte del mondo
 
-L'associazione vuole essere luogo di incontro, fulcro di diffusione e promozione dell'arte della slackline
+L'associazione vuole essere luogo di incontro, fulcro di diffusione e promozione di questa meravigliosa disciplina

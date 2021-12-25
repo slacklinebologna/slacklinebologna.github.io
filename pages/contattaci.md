@@ -2,10 +2,20 @@
 layout: page
 permalink: /contattaci/
 header:
-  image_fullwidth: /images/colodri.jpg
+  image_fullwidth: /images/a7r04875.jpg
 title: Contattaci
-meta_title: ... description for search engine
+meta_title: Per informazioni sui corsi, preventivi, richieste di collaborazione
+  o altre domande generiche mandaci un messaggio compilando il modulo qui sotto
+  oppure mandaci una mail/chiamaci
+image:
+  title: /images/img_9428.jpg
 ---
-In fondo alla pagina troverete i link per contattarci tramite i social media. In alternativa puoi inviarci un messaggio con il modulo qui sotto:
+Per informazioni sui corsi, preventivi, richieste di collaborazione o altre domande generiche mandaci un messaggio compilando il modulo qui sotto oppure mandaci una mail/chiamaci
+
+Carlo Maria Sovrini-3205649950 
+
+slacklinebologna@gmail.com
+
+
 
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLScrPekPsf9jpGZATPL0JpSlHpCgXYWYkyy837i3xZ_38J0o2g/viewform?embedded=true" width="640" height="800" frameborder="0" marginheight="0" marginwidth="0">Caricamento…</iframe>

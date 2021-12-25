@@ -4,7 +4,7 @@ homepage: true
 permalink: /index.html
 title: Slackline Bologna ASD
 header:
-  title: Slackline Bologna
+  title: Slackline Bologna ASD
   image_fullwidth: /images/simo5307.jpg
 widget1:
   title: Blog
@@ -22,7 +22,7 @@ widget3:
   image: /images/gimi2017-thumb.jpg
   text: Something about lezioni
 ---
-# Slackline Bologna
+
 
 ***Ci sono molti modi di fare l’equilibrista... ma tutti simboleggiano la ricerca di “alte risposte”, nell’ incommensurabile purezza del vuoto***
 

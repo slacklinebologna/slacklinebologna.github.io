@@ -4,8 +4,8 @@ permalink: /lezioni/
 header:
   image_fullwidth: /images/gimi2017.jpg
   title: ""
-title: Lezioni/Corsi
-meta_title: Lezioni - Slackline Bologna
+title: Corsi
+meta_title: Corsi - Slackline Bologna
 image:
   title: /images/gimi2017-thumb.jpg
 ---

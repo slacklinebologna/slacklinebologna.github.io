@@ -24,7 +24,7 @@ widget3:
 ---
 > #### ***Ci sono molti modi di fare l’equilibrista... ma tutti simboleggiano la ricerca di “alte risposte”, nell’ incommensurabile purezza del vuoto. In realtà chi non vive correndo su binari… cammina su un filo teso fra libertà e infinito***
 
-\-
+
 
 ## *Slackline Bologna è un albero che cammina, radici in movimento costante per una città che accoglie sempre e sa lasciare andare*
 

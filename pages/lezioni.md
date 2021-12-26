@@ -12,7 +12,7 @@ image:
 ---
 ### Dove
 
-Nei mesi più freddi terremo dei corsi indoor presso l'Eden Park di Bologna (Via Camillo Casarini 19). Successivamente, non appena la temperatura lo permetterà, ci sposteremo nei parchi della città (Giardini Margherita, Villa Angeletti, ecc.)
+Nei mesi più freddi terremo dei corsi indoor presso l'Eden Park di Bologna (Via Camillo Casarini 19). Successivamente, non appena la temperatura lo permetterà, ci sposteremo nei parchi della città (Giardini Margherita, Villa Angeletti, ecc...)
 
 ### A chi si rivolge
 
@@ -34,10 +34,7 @@ Momentaneamente il numero massimo di iscritti per classe è di 6 allievi (a caus
 
 Il lavoro viene sviluppato in maniera progressiva dall’inizio alla fine del corso. È comunque sempre possibile inserirsi, previo accordo con l’insegnante.
 
-LA PRIMA LEZIONE E' GRATUITA (Sarà comunque necessario il tesseramento AICS annuale all' associazione)†
-  
-  
- 
+LA PRIMA LEZIONE E' GRATUITA (Sarà comunque necessario il tesseramento AICS annuale all' associazione)
 
 ### Giorni e orari
 

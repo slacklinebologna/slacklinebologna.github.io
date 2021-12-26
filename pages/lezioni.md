@@ -5,8 +5,7 @@ header:
   image_fullwidth: /images/gimi2017.jpg
   title: ""
 title: Lezioni/Corsi
-meta_title: La slackline è per tutti! Per chi è carico di immergersi nel nostro
-  mondo organizziamo delle lezioni a Bologna per grandi e piccini.
+meta_title: Lezioni - Slackline Bologna
 image:
   title: /images/gimi2017-thumb.jpg
 ---

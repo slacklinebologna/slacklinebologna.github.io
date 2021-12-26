@@ -4,9 +4,7 @@ permalink: /contattaci/
 header:
   image_fullwidth: /images/a7r04875.jpg
 title: Contattaci
-meta_title: Per informazioni sui corsi, preventivi, richieste di collaborazione
-  o altre domande generiche mandaci un messaggio compilando il modulo qui sotto
-  oppure mandaci una mail/chiamaci
+meta_title: Contattaci - Slackline Bologna
 image:
   title: /images/img_9428.jpg
 ---

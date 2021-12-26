@@ -31,7 +31,3 @@ widget3:
 ## *Siamo un'associazione sportiva, un gruppo di amici amanti dell'aria, della natura e della libertà*
 
 ## *La nostra disciplina richiede anni di passione, allenamento costante e molte basi teoriche per garantire una sicurezza massima durante il suo svolgimento, anche a centinaia di metri dal suolo*
-
-## *In equilibrio, passo dopo passo... su una fettuccia che unisce montagne, alberi, edifici ma soprattutto persone di ogni età e parte del mondo*
-
-## *L'associazione vuole essere luogo di incontro, fulcro di diffusione e promozione di questa meravigliosa disciplina*

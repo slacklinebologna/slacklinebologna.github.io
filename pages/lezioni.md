@@ -29,8 +29,6 @@ Lo svolgimento di una lezione di un' ora e mezza comprende: 
 
 In principio monteremo due slackline corte di facile e media difficoltà per poi aumentare il livello e la lunghezza con l’avanzare del corso. Ciascuna di esse avrà materassi di protezione (esclusivamente in palestra) per poter imparare in completa sicurezza.
 
-Momentaneamente il numero massimo di iscritti per classe è di 6 allievi (a causa del numero limitato di linee che possiamo montare in palestra).
-
 Il lavoro viene sviluppato in maniera progressiva dall’inizio alla fine del corso. È comunque sempre possibile inserirsi, previo accordo con l’insegnante.
 
 LA PRIMA LEZIONE E' GRATUITA (Sarà comunque necessario il tesseramento AICS annuale all' associazione)

@@ -2,7 +2,7 @@
 layout: page
 permalink: /chi-siamo/
 header:
-  image_fullwidth: /images/a7r04875.jpg
+  image_fullwidth: /images/img_9428.jpg
 title: Chi Siamo
 meta_title: Chi Siamo - Slackline Bologna
 image:

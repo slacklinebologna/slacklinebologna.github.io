@@ -54,6 +54,12 @@ body.video cite { color: #fff; }
     }
 }
 
+@media #{$large-up} {
+  .hide-on-collapsed-nav{
+    display: none;
+  }
+}
+
 
 
 /* Search

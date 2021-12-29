@@ -2,7 +2,7 @@
 layout: frontpage
 homepage: true
 permalink: /index.html
-title: Slackline Bologna ASD
+title: " "
 header:
   title: Slackline Bologna ASD
   image_fullwidth: /images/simo5307.jpg

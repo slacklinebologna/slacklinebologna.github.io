@@ -33,6 +33,8 @@ Il lavoro viene sviluppato in maniera progressiva dall’inizio alla fine del co
 
 LA PRIMA LEZIONE E' GRATUITA (Sarà comunque necessario il tesseramento AICS annuale all' associazione)
 
+![Some extra text](/images/img_9428.jpg)
+
 ### Giorni e orari
 
 MARTEDI dalle alle 18:00 alle 19:30

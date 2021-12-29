@@ -1,6 +1,9 @@
 - title: Home
   url: "/"
   side: right
+- title: Chi Siamo
+  url: "/chi-siamo"
+  side: right
 - title: Blog
   url: "/blog"
   side: right

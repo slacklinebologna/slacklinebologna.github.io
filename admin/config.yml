@@ -59,6 +59,35 @@ collections:
               ]
             }
           - { label: "Body", name: "body", widget: "markdown" }
+      - label: 'Chi siamo'
+        name: 'chi-siamo'
+        file: 'pages/chi-siamo.md'
+        fields:
+          - { label: "Layout", name: "layout", widget: "hidden", default: "page" }
+          - { label: "Permalink", name: "permalink", widget: "hidden", default: "/chi-siamo/" }
+          - {
+              label: "Header",
+              name: "header",
+              widget: "object",
+              fields: [
+                { label: "Title", name: "title", widget: "string", required: false },
+                { label: "Image", name: "image_fullwidth", widget: "image" }
+              ]
+            }
+          - { label: "Title", name: "title", widget: "string" }
+          - { label: "Tab title", name: "meta_title", widget: "string" }
+          - {
+              label: "Image",
+              name: "image",
+              widget: "object",
+              required: false,
+              fields: [
+                { label: "Image", name: "title", widget: "image", required: false },
+                { label: "Caption", name: "caption", widget: "string", required: false },
+                { label: "Caption url", name: "caption_url", widget: "string", required: false }
+              ]
+            }
+          - { label: "Body", name: "body", widget: "markdown" }
       - label: 'Blog'
         name: 'blog'
         file: '_layouts/default-with-blog-header.html'

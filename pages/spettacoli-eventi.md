@@ -6,7 +6,7 @@ header:
 title: Spettacoli e eventi
 meta_title: Spettacoli e eventi - Slackline Bologna
 image:
-  title: /images/eh4i0010.jpg
+  title: ""
 ---
 Slackline Bologna collabora con enti pubblici e privati nella creazione e realizzazione di eventi sportivi, spettacoli e manifestazioni di ogni genere. 
 

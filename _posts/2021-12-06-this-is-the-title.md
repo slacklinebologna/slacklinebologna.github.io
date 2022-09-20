@@ -8,5 +8,6 @@ teaser: 'Abbiamo partecipato a "Gusta Borgo", un evento organizzato dal comune
 meta_teaser: Spettacoli, città, eventi
 image:
   title: /images/photo_2022-09-20_14-09-40.jpg
+  caption: Carlone sulla linea
 ---
 C﻿oming Soon!

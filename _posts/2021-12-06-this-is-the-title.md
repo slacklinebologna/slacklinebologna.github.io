@@ -2,8 +2,11 @@
 layout: blog-page
 categories:
   - blog
-title: This is the title
-teaser: This is the teaser text
-meta_teaser: Descriptino for search engine
+title: San Leo 2022
+teaser: 'Abbiamo partecipato a "Gusta Borgo", un evento organizzato dal comune
+  di San Leo '
+meta_teaser: Spettacoli, città, eventi
+image:
+  title: /images/photo_2022-09-20_14-09-40.jpg
 ---
-Bla bla bla some content
+C﻿oming Soon!

@@ -10,4 +10,28 @@ image:
   title: /images/photo_2022-09-20_14-09-40.jpg
   caption: Carlone sulla linea
 ---
-C﻿oming Soon!
+N﻿el weekend del 16-17 Settembre ci hanno invitati a partecipare a "Gusta Borgo": un evento culturale che si è tenuto nel borgo medievale di San Leo, in provincia di Rimini. Il progetto consisteva in 260m di linea ancorati tra la torre civica del paese e le basi delle mura della fortezza. Il team era composto da 6 regaz con molta esperienza alle spalle.
+
+![](/images/img_1204.jpg)
+
+I﻿l nostro viaggio inizia nel primo pomeriggio di Venerdì quando appena arrivati ci siamo subito resi conto che il montaggio di questa linea non sarebbe stato esattamente una passeggiata per via di un vento di 70km/h che sferzava il paese; decidiamo intanto di andare a montare gli ancoraggi. Quello dal lato della fortezza consisteva in due golfari cementati che il comune aveva predisposto per noi con una colata di cemento, l'altro era sulla torre civica, legato a due putrelle che sorreggono le campane. Due ancoraggi impeccabili, tutto procedeva perfettamente se non per un piccolissimo particolare: le campane, una volta all'ora, suonano. Mentre stavamo montando senza che minimamente ce lo aspettassimo rintocca l’ora. Un'enorme campana di qualche quintale scocca il ritmo del paese, atterrandoci dallo spavento. Suonano decisamente forte! Soprattutto se si è a qualche metro. Procediamo con un primo tentativo di passaggio della lenza. Alziamo in cielo il drone, come un cavallo imbizzarrito non sembra minimamente volere collaborare. Il cielo è sereno ma le raffiche sono violentissime, ci ritiriamo sconfitti in nelle nostre gradevolissime dimore - gentilmente offerteci dal Comune - speranzosi che la mattina seguente sarebbe andata meglio.
+
+S﻿abato mattina sveglia presto, riusciamo a passare il cordino approfittando di qualche ingannevole raggio di sole, consapevoli delle catastrofiche condizioni che il meteo prevedeva per il pomeriggio. Il cielo inizia ad annuvolarsi, per la nostra incolumità e quella del materiale decidiamo di rintanarci nel baretto sottostante, temporeggiando davanti a un crodino. Passata la burrasca torniamo al lavoro, umidità al 150 % ma gli animi si rasserenano, riusciamo a passare la linea molto velocemente con il metodo dello “stendino” (termine tecnico). 
+
+Scendiamo dalla torre stanchi e fradici con l’intenzione di finire il rigging all’ancoraggio di la. In un attimo ci rendiamo conto di quello che sta per accadere… ci brillano gli occhi!  Stiamo per camminare sospesi nel vuoto a 50 metri sopra un borgo medievale unico al mondo. 
+
+![](/images/img_1227.jpg)
+
+Cominciano le traversate. La linea non è per nulla scontata.. ottimo!
+
+Domenica si prospetta essere una giornata a dir poco spaziale, il tempo è incredibile,  il paese si anima ed è nel pieno dei festeggiamenti, la gente ci applaude entusiasta. I bambini sotto di noi ci invitano a cadere ma niente da fare ;) 
+
+Tante session, tanto cibo, il mood era quello di uno sagra di paese con bancarelle ricche di prelibatezze nostrane, ci offrono di tutto! Pasta fatta a mano, funghi freschi e musica jazz dal vivo. 
+
+Come ciliegina sulla torta di questa esperienza indimenticabile ci troviamo tutti insieme, post smontaggio, a condividere una piacevolissima cena (sempre di fronte a un crodino tassativo).
+
+Insomma… Un grazie sincero a chi ha reso possibile questo progetto unico al mondo; dal nostro sponsor Brand Gioielli, ai ragazzi di Burdel Line che ci hanno invitati e soprattutto al comune di San Leo che ha saputo apprezzare e valorizzare la nostra disciplina. 
+
+
+
+<!--EndFragment-->

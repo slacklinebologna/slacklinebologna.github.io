@@ -20,7 +20,7 @@ S﻿abato mattina sveglia presto, riusciamo a passare il cordino approfittando d
 
 Scendiamo dalla torre stanchi e fradici con l’intenzione di finire il rigging all’ancoraggio di la. In un attimo ci rendiamo conto di quello che sta per accadere… ci brillano gli occhi!  Stiamo per camminare sospesi nel vuoto a 50 metri sopra un borgo medievale unico al mondo. 
 
-![](/images/img_1227.jpg)
+![](/images/img_1227.jpg "Lo spot")
 
 Cominciano le traversate. La linea non è per nulla scontata.. ottimo!
 
@@ -31,7 +31,5 @@ Tante session, tanto cibo, il mood era quello di uno sagra di paese con bancarel
 Come ciliegina sulla torta di questa esperienza indimenticabile ci troviamo tutti insieme, post smontaggio, a condividere una piacevolissima cena (sempre di fronte a un crodino tassativo).
 
 Insomma… Un grazie sincero a chi ha reso possibile questo progetto unico al mondo; dal nostro sponsor Brand Gioielli, ai ragazzi di Burdel Line che ci hanno invitati e soprattutto al comune di San Leo che ha saputo apprezzare e valorizzare la nostra disciplina. 
-
-
 
 <!--EndFragment-->
